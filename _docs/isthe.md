@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Customization
 permalink: /docs/customization/
 ---
